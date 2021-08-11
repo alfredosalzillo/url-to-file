@@ -1,0 +1,22 @@
+{
+  "name": "url-to-file",
+  "version": "0.0.1",
+  "description": "An utility to convert url to file.",
+  "repository": "https://github.com/alfredosalzillo/url-to-file",
+  "author": "alfredosalzillo <noctisbels@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "type": "module",
+  "source": "./main.ts",
+  "exports": "./dist/main.modern.js",
+  "main": "./dist/main.cjs",
+  "module": "./dist/main.module.js",
+  "unpkg": "./dist/main.umd.js",
+  "scripts": {
+    "build": "microbundle",
+    "dev": "microbundle watch"
+  },
+  "devDependencies": {
+    "microbundle": "^0.13.3"
+  }
+}
