@@ -1,9 +1,9 @@
 # url-to-file
 
 ![CI/CD](https://github.com/alfredosalzillo/url-to-file/workflows/CI/CD/badge.svg)
-[![codecov](https://codecov.io/gh/alfredosalzillo/rollup-plugin-multi-input/branch/master/graph/badge.svg)](https://codecov.io/gh/alfredosalzillo/url-to-file)
+[![codecov](https://codecov.io/gh/alfredosalzillo/url-to-file/branch/master/graph/badge.svg)](https://codecov.io/gh/alfredosalzillo/url-to-file)
 [![deno land](http://img.shields.io/badge/available%20on-deno.land/x-lightgrey.svg?logo=deno&labelColor=black)](https://deno.land/x/url_to_file)
-[![npm version](https://badge.fury.io/js/url-to-file.svg)](https://badge.fury.io/js/rollup-plugin-multi-input)
+[![npm version](https://badge.fury.io/js/url-to-file.svg)](https://badge.fury.io/js/url-to-file)
 [![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://github.com/semantic-release/semantic-release)
 
 A utility to convert url to file.
